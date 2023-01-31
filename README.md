@@ -1,4 +1,7 @@
-### Hi there 👋
+### tânisi
+Shaun nitisiyihkâson
+Weberville kayâhtê nitôhcîn
+Devon mêkwâc niwîkin
 
 <!--
 **MakeItLegendary/MakeItLegendary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
